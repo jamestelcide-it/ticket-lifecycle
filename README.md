@@ -72,7 +72,7 @@ In this example we can have our agent John see this Ticket and update its priori
 <!-- ![image](https://github.com/user-attachments/assets/ab6c997b-f363-4e2d-9432-5683df20bdc9) -->
 
 <p>
-In this example we can have our agent Jenny work on the issue to completion and communicate back with the previous agent John, also switching the status of the issure from open to resolved.
+In this example we can have our agent Jenny work on the issue to completion and communicate back with the previous agent John, also switching the status of the issue from open to resolved.
 </p>
 <br />
 
